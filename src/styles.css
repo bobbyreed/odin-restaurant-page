@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    background-image: url('./media/images/tileBG.webp');
+
+}
+
+body{
+    background-color: rebeccapurple;
+}
+
+button{
+    background-color: #68a678;
+    color: white;
+}
